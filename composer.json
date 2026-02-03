@@ -11,6 +11,7 @@
         {
             "name": "Ortwin Paaetzold",
             "email": "chess-server@paetzold-lechenich.de"
+        }
     ],
     "require": {
         "php": "^8.2",
