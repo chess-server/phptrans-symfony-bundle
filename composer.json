@@ -1,5 +1,5 @@
 {
-    "name": "php-translation/symfony-bundle",
+    "name": "chess-server/phptrans-symfony-bundle",
     "type": "symfony-bundle",
     "description": "",
     "license": "MIT",
