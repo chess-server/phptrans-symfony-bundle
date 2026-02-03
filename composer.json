@@ -26,7 +26,7 @@
         "php-translation/extractor": "^2.0",
         "nyholm/nsa": "^1.1",
         "twig/twig": "^3.21",
-        "symfony/asset": "^5.3 || ^6.0 || ^7.0"
+        "symfony/asset": "^5.3 || ^6.0 || ^7.0 || ^8.0 "
     },
     "require-dev": {
         "symfony/phpunit-bridge": "^5.2 || ^6.0 || ^7.0 || ^8.0 ",
